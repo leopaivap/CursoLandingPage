@@ -1,0 +1,10 @@
+:root {
+    --primary-orange: #FA5B05;
+    --primary-light-orange: rgba(250, 91, 5, 0.12);
+    --secondary-light-orange: rgba(255, 139, 0, 0.06);
+    --primary-grey: rgb(63, 63, 63);
+    --secondary-grey: rgba(63, 63, 63, 0.2);
+    --other-grey: #676767;
+    --white: #FFF;
+    --white-text: #DEDEDE;
+}

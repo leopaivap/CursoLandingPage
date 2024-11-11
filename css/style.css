@@ -38,6 +38,7 @@ body {
     background-color: darkslategray;
     padding: 0.3rem 0;
     width: 100%;
+    height: 12vh;
     justify-content: center;
     border-bottom: 0.1px solid var(--secondary-grey);
     position: fixed;
@@ -71,6 +72,12 @@ body {
 .nav-item-link {
     text-decoration: none;
     color: var(--white);
+}
+
+.nav-login-btn .nav-items-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
 }
 
 .nav-login-btn .nav-item-link {
@@ -137,6 +144,11 @@ body {
 
 .btn-more-info {
     justify-self: end;
+}
+
+.btn-more-info .nav-items-list {
+    padding: 0;
+    margin: 0;
 }
 
 .btn-more-info .nav-item {
